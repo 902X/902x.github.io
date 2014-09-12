@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HMFAYSAL OMEGA THEME
 
 Project name:	HMFAYSAL OMEGA THEME  
@@ -333,3 +334,9 @@ If you'd like to give me credit somewhere on your blog or tweet a shout out to [
 
 Warm Regards and Stay Creative,  
 Hossain Mohd. Faysal
+=======
+902x.github.io
+==============
+
+homepage for 902x sixth grade robotics team
+>>>>>>> FETCH_HEAD

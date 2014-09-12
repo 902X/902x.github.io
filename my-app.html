@@ -1,0 +1,42 @@
+<link rel="import" href="components/polymer/polymer.html">
+<link rel="import" href="components/core-toolbar/core-toolbar.html">
+<link rel="import" href="components/core-item/core-item.html">
+<link rel="import" href="components/core-menu-button/core-menu-button.html">
+<link rel="import" href="components/core-icons/social-icons.html">
+<link rel="import" href="components/core-icons/image-icons.html">
+
+<polymer-element name="my-app">
+    <style>
+    core-popup-menu {
+      top: 50px;
+    }
+    </style>
+    <template>
+        <!-- start the app section -->
+        <div id="app" layout vertical>
+
+            <!-- the app's main content area -->
+            <div id="content" flex relative>
+                <core-toolbar id="core_toolbar">
+                  <core-menu-button icon="menu">
+                    <core-item icon="social:mood" label="Team"></core-item>
+                    <core-item icon="event" label="Calendar"></core-item>
+                    <core-item icon="image:collections" label="Gallery"></core-item>
+                  </core-menu-button>
+                  <div id="div" flex>902X</div>
+                </core-toolbar>
+            </div>
+        </div>
+    </template>
+
+    <script>
+
+        Polymer( 'my-app', {
+            ready: function () {
+                //...
+            }
+        } );
+
+    </script>
+
+</polymer-element>
