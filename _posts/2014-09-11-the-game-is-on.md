@@ -6,15 +6,12 @@ headline: "Time to start building"
 categories: status
 tags: 
   - team
-  - jekyll
-image: 
-  feature: team_selfie.jpg
-  credit: spreadeffect.com
-  creditlink: "http://www.spreadeffect.com/blog/improve-website-speed/"
-comments: true
+comments: false
 mathjax: null
 featured: true
 published: true
 ---
+
+![team_selfie.jpg](/images/team_selfie.jpg)
 
 Here we go!
