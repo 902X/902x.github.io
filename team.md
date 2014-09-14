@@ -60,4 +60,16 @@ image:
 
 - Age: 11
 - Grade: 6
-- Interests: 
+- Interests:
+
+### Andrew Stevenson
+
+- Age: 11
+- Grade: 6
+- Interests:
+
+### Joey Marcellino
+
+- Age: 11
+- Grade: 6
+- Interests:
