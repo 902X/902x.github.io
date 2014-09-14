@@ -1,7 +1,7 @@
 title:            902x
 description:      "Sixth Grade Robotics Team"
 #logo:             omikron.png
-#disqus_shortname: hmfaysal
+disqus_shortname: 902x
 # Assign a default image for your site's header and footer
 default_bg:       dancing-flames-71750_1280.jpg
 search:           true
@@ -22,25 +22,25 @@ url:       		   http://902x.github.io
 
 # Owner/author information
 owner:
-  #name:           902x
+  name:           902x
   #avatar:         hmfaysal.jpg
-  #email:          hmfaysal@alum.mit.edu
+  email:          902xbot@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  #description:    Hossain Mohammad Faysal is an Electrical Engineer and a Mathematician based in Doha, Qatar. His interests are anything that&#8217;s related to math, from math itself to programming languages to music to physics to engineering to philosophy.
+  #description:    none
   # Social networking links used in footer. Update and remove as you like.
-  #twitter:        hmfaysal
-  #facebook:       hmfaysal
+  #twitter:        none
+  #facebook:       none
   github:         902x
-  #stackexchange:  https://stackexchange.com/users/3402032/hossain-mohd-faysal
-  #linkedin:       https://www.linkedin.com/pub/firstname-lastname/12/345/678
-  #instagram:
+  #stackexchange:  https://stackexchange.com/users/
+  #linkedin:       https://www.linkedin.com/
+  instagram:      902xbot
   #flickr:
   #tumblr:
   # For Google Authorship https://plus.google.com/authorship
-  #google_plus:    https://plus.google.com/u/0/102602916593522619858
+  google_plus:    https://plus.google.com/110804009211307853429
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   UA-39365944-7
+google_analytics:
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
@@ -48,18 +48,19 @@ bing_verify:
 # Links to include in footer navigation
 # For external links add external: true
 links:
-  - title: Home
+  - title: <i class="glyphicon-fire"></i> Home
     url: /
     external: false
-    icon: home
-  - title: <i class="icon-book"></i> Documentation
-    url: /documentation
+  - title: <i class="glyphicon-user"></i> Team
+    url: /team
+    external: false
+  - title: <i class="glyphicon-calendar"></i> Calendar
+    url: /calendar
+    external: false
   - title: Categories
     url: /categories
   - title: Tags
     url: /tags
-  - title: Faysal who?
-    url: /hossain-mohd-faysal
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
@@ -146,16 +147,14 @@ prose:
           placeholder: "Choose categories"
           value: personal
           options:
-            - name: "Personal"
-              value: personal
-            - name: "Web-Development"
-              value: webdevelopment
+            - name: "Team"
+              value: team
+            - name: "Robot Construction"
+              value: robotconstruction
             - name: "Interesting"
               value: interesting
             - name: "Status"
               value: status
-            - name: "Quotes"
-              value: quotes
           alterable: true
       - name: "tags"
         field:
