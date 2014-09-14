@@ -48,13 +48,13 @@ owner:
 # Links to include in footer navigation
 # For external links add external: true
 links:
-  - title: <i class="glyphicon-fire"></i> Home
+  - title: <i class="glyphicon glyphicon-fire"></i> Home
     url: /
     external: false
-  - title: <i class="glyphicon-user"></i> Team
+  - title: <i class="glyphicon glyphicon-user"></i> Team
     url: /team
     external: false
-  - title: <i class="glyphicon-calendar"></i> Calendar
+  - title: <i class="glyphicon glyphicon-calendar"></i> Calendar
     url: /calendar
     external: false
   - title: Categories
