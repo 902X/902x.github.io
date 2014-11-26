@@ -22,7 +22,7 @@ image:
 
 ### Porter Mitoma
 
-- Age: 10
+- Age: 11
 - Grade: 6
 - Interests: Soccer, Chorus, Architecture
 
