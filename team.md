@@ -42,7 +42,7 @@ image:
 
 - Age:11
 - Grade: 6
-- Interests: Baseball, Videogames, Batman, Basketball, Chicken W++++ings
+- Interests: Baseball, Videogames, Batman, Basketball, Chicken Wings
 
 ### Catherine Grenier
 
