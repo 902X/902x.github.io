@@ -24,52 +24,52 @@ image:
 
 - Age: 11
 - Grade: 6
-- Interests: Soccer, Chorus, Architecture
+- Interests: Soccer, Chorus, Architecture, Spooky Scary Skeletons
 
 ### William Huey
 
 - Age: 11
 - Grade: 6
-- Interests: Soccer, Trumpet, Chorus
+- Interests: Tacos, Math, Reading, Trumpet, Chorus, Soccer, Basketball
 
 ### Sam Walikonis
 
-- Age:
+- Age:11
 - Grade: 6
-- Interests:
+- Interests: p.s. Sam's Not Intresting
 
 ### Mathew Chandy
 
-- Age:
+- Age:11
 - Grade: 6
-- Interests:
+- Interests: Baseball, Videogames, Batman, Basketball, Chicken W++++ings
 
 ### Catherine Grenier
 
 - Age: 11
 - Grade: 6
-- Interests: Hockey, Chorus, Design
+- Interests: Hockey, Chorus, Design, Art, Computers
 
 ### Atticus Hempel
 
-- Age:
+- Age:11
 - Grade: 6
-- Interests:
+- Interests: Soccer, Trumpet, Moe's, Reading
 
 ### Kolby Durocher
 
 - Age: 11
 - Grade: 6
-- Interests:
+- Interests: Mini Corndogs, Chorus, Piano, Minecraft, Soccer, Reading
 
 ### Andrew Stevenson
 
 - Age: 11
 - Grade: 6
-- Interests:
+- Interests: Videogames, Twinkies, Salted Pickles
 
 ### Joey Marcellino
 
 - Age: 11
 - Grade: 6
-- Interests:
+- Interests: Baseball, Triangles, Motors
