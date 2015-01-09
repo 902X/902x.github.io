@@ -20,7 +20,7 @@ image:
 
 ## Team Members
 
-### Porter Mitoma
+### PorterMitoma
 
 - Age: 11
 - Grade: 6
