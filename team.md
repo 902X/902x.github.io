@@ -48,7 +48,7 @@ image:
 
 - Age: 11
 - Grade: 6
-- Interests: Hockey, Chorus, Design, Art, Computers, Dating
+- Interests: Hockey, Chorus, Design, Art, Computers,
 
 ### Zachary Scruggs
 
