@@ -36,7 +36,7 @@ image:
 
 - Age:11
 - Grade: 6
-- Interests: p.s. Sam's Not Intresting
+- Interests: Hockey, Baseball, Lamboghini, Pie
 
 ### Mathew Chandy
 
@@ -48,13 +48,13 @@ image:
 
 - Age: 11
 - Grade: 6
-- Interests: Hockey, Chorus, Design, Art, Computers
+- Interests: Hockey, Chorus, Design, Art, Computers, Dating
 
-### Atticus Hempel
+### Zachary Scruggs
 
 - Age:11
 - Grade: 6
-- Interests: Soccer, Trumpet, Moe's, Reading
+- Interests: Soccer, Bari Sax, Ice Cream, Video Games, Batman
 
 ### Kolby Durocher
 
