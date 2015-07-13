@@ -3,7 +3,7 @@ layout: post
 published: true
 title: "Let's try this again!"
 mathjax: false
-featured: false
+featured: true
 comments: false
 ---
 
