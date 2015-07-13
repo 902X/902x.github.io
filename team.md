@@ -20,56 +20,32 @@ image:
 
 ## Team Members
 
-### PorterMitoma
-
-- Age: 12
-- Grade: 6
-- Interests: Soccer, Chorus, Architecture, Spooky Scary Skeletons
-
 ### William Huey
 
 - Age: 11
-- Grade: 6
+- Grade: 7
 - Interests: Tacos, Math, Reading, Trumpet, Chorus, Soccer, Basketball
-
-### Sam Walikonis
-
-- Age:11
-- Grade: 6
-- Interests: Hockey, Baseball, Lamboghini, Pie
 
 ### Mathew Chandy
 
-- Age:11
-- Grade: 6
+- Age: 12
+- Grade: 7
 - Interests: Baseball, Videogames, Batman, Basketball, Chicken Wings
 
 ### Catherine Grenier
 
-- Age: 11
-- Grade: 6
+- Age: 12
+- Grade: 7
 - Interests: Hockey, Chorus, Design, Art, Computers,
 
 ### Zachary Scruggs
 
-- Age:11
-- Grade: 6
+- Age: 12
+- Grade: 7
 - Interests: Soccer, Bari Sax, Ice Cream, Video Games, Batman
 
 ### Kolby Durocher
 
-- Age: 11
-- Grade: 6
+- Age: 12
+- Grade: 7
 - Interests: Mini Corndogs, Chorus, Piano, Minecraft, Soccer, Reading
-
-### Andrew Stevenson
-
-- Age: 11
-- Grade: 6
-- Interests: Videogames, Twinkies, Salted Pickles
-
-### Joey Marcellino
-
-- Age: 11
-- Grade: 6
-- Interests: Baseball, Triangles, Motors
