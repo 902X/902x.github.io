@@ -9,7 +9,7 @@ tags:
   - team
 comments: false
 mathjax: false
-featured: true
+featured: false
 published: true
 ---
 

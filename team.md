@@ -24,28 +24,33 @@ image:
 
 - Age: 11
 - Grade: 7
+- Roles: Builder
 - Interests: Tacos, Math, Reading, Trumpet, Chorus, Soccer, Basketball
 
 ### Mathew Chandy
 
 - Age: 12
 - Grade: 7
+- Roles: Programmer, Builder
 - Interests: Baseball, Videogames, Batman, Basketball, Chicken Wings
 
 ### Catherine Grenier
 
 - Age: 12
 - Grade: 7
+- Roles: Public Relations, Social Media, Photographer, Builder, Scout
 - Interests: Hockey, Chorus, Design, Art, Computers,
 
 ### Zachary Scruggs
 
 - Age: 12
 - Grade: 7
+- Roles: Driver, Sacout, Public Relations, Builder
 - Interests: Soccer, Bari Sax, Ice Cream, Video Games, Batman
 
 ### Kolby Durocher
 
 - Age: 12
 - Grade: 7
+- Roles: Programmer, Builder
 - Interests: Mini Corndogs, Chorus, Piano, Minecraft, Soccer, Reading
