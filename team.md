@@ -22,7 +22,7 @@ image:
 
 ### PorterMitoma
 
-- Age: 11
+- Age: 12
 - Grade: 6
 - Interests: Soccer, Chorus, Architecture, Spooky Scary Skeletons
 
