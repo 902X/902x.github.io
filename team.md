@@ -20,19 +20,13 @@ image:
 
 ## Team Members
 
-### William Huey
-
-- Age: 11
-- Grade: 7
-- Roles: Builder
-- Interests: Tacos, Math, Reading, Trumpet, Chorus, Soccer, Basketball
-
-### Mathew Chandy
+### Atticus Hemple
 
 - Age: 12
 - Grade: 7
-- Roles: Programmer, Builder
-- Interests: Baseball, Videogames, Batman, Basketball, Chicken Wings
+- Roles: Builder, Driver
+- Interests: Soccer, Trumpet...other stuff?
+
 
 ### Catherine Grenier
 
@@ -41,12 +35,12 @@ image:
 - Roles: Public Relations, Social Media, Photographer, Builder, Scout
 - Interests: Hockey, Chorus, Design, Art, Computers,
 
-### Zachary Scruggs
+### Mathew Chandy
 
 - Age: 12
 - Grade: 7
-- Roles: Driver, Sacout, Public Relations, Builder
-- Interests: Soccer, Bari Sax, Ice Cream, Video Games, Batman
+- Roles: Programmer, Builder
+- Interests: Baseball, Videogames, Batman, Basketball, Chicken Wings
 
 ### Kolby Durocher
 
@@ -54,3 +48,17 @@ image:
 - Grade: 7
 - Roles: Programmer, Builder
 - Interests: Mini Corndogs, Chorus, Piano, Minecraft, Soccer, Reading
+
+### William Huey
+
+- Age: 11
+- Grade: 7
+- Roles: Builder
+- Interests: Tacos, Math, Reading, Trumpet, Chorus, Soccer, Basketball
+
+### Zach Scruggs
+
+- Age: 12
+- Grade: 7
+- Roles: Driver, Sacout, Public Relations, Builder
+- Interests: Soccer, Bari Sax, Ice Cream, Video Games, Batman
